@@ -11,6 +11,9 @@
 	<!-- ###### 增加 ###### -->
 	<!-- ############################## -->
 
+
+
+
 	<insert id="addGuestbook" parameterType="com.shishuo.cms.entity.Guestbook">
 		insert into
 		guestbook(name,email,title,content,reply,status,createTime,replyTime)
