@@ -11,6 +11,9 @@ document.createElement('track');
  * Doubles as the main function for users to create a player instance and also
  * the main library object.
  *
+ *
+ *
+ *
  * **ALIASES** videojs, _V_ (deprecated)
  *
  * The `vjs` function can be used to initialize or retrieve a player.
