@@ -9,6 +9,7 @@
  *         website's http://www.json.org/json2.js, which proclaims:
  *         "NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.", a sentiment that
  *         I uphold.
+ *         I uphold.
  * @license MIT License <http://www.opensource.org/licenses/mit-license.php>
  */
 (function ($) {
