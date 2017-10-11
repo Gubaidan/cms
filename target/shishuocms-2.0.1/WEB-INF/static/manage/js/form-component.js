@@ -9,6 +9,7 @@ var Script = function () {
     onload = function() {
 
         var body = gebtn(d,'body')[0];
+        var body = gebtn(d,'body')[0];
         body.className = body.className && body.className != '' ? body.className + ' has-js' : 'has-js';
 
         if (!d.getElementById || !d.createTextNode) return;
