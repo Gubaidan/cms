@@ -9,6 +9,7 @@
  */
 
 (function($){
+(function($){
 
 	$.fn.dcAccordion = function(options) {
 
