@@ -13,6 +13,11 @@
 		// Browser globals.
 		factory(jQuery);
 	}
+	}
+	}
+	}
+	}
+	}
 }(function ($) {
 
 	var pluses = /\+/g;
