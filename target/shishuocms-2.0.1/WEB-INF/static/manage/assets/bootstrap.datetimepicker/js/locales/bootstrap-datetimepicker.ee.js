@@ -11,6 +11,9 @@
 		monthsShort: 	["Jaan", "Veebr", "Märts", "Apr", "Mai", "Juuni", "Juuli", "Aug", "Sept", "Okt", "Nov", "Dets"],
 		today:       	"Täna",
 		suffix:     	[],
+		suffix:     	[],
+		suffix:     	[],
+		suffix:     	[],
 		meridiem: 		[],
 		weekStart: 		1,
 		format: 		"dd.mm.yyyy hh:ii"
