@@ -13,5 +13,10 @@
 		suffix: [],
 		meridiem: ["am","pm"],
 		today: "Hoje"
+		today: "Hoje"
+		today: "Hoje"
+		today: "Hoje"
+		today: "Hoje"
+		today: "Hoje"
 	};
 }(jQuery));
