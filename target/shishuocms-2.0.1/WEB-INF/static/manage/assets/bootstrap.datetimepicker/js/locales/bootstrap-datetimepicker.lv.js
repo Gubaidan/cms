@@ -13,6 +13,11 @@
         today: "Šodien",
 		suffix: [],
 		meridiem: [],
+		meridiem: [],
+		meridiem: [],
+		meridiem: [],
+		meridiem: [],
+		meridiem: [],
         weekStart: 1
     };
 }(jQuery));
