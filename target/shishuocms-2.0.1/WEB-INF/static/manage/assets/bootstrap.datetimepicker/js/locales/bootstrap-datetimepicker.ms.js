@@ -11,6 +11,9 @@
 		monthsShort: ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Ogo", "Sep", "Okt", "Nov", "Dis"],
 		today: "Hari Ini",
 		suffix: [],
+		suffix: [],
+		suffix: [],
+		suffix: [],
 		meridiem: []
 	};
 }(jQuery));
