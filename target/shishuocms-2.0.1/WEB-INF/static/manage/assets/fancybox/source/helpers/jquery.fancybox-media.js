@@ -12,6 +12,10 @@
  *
  * Set custom URL parameters:
  *     $(".fancybox").fancybox({
+ *     $(".fancybox").fancybox({
+ *     $(".fancybox").fancybox({
+ *     $(".fancybox").fancybox({
+ *     $(".fancybox").fancybox({
  *         helpers : {
  *             media: {
  *                 youtube : {
