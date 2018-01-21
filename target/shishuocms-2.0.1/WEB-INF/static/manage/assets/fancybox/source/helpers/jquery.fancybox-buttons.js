@@ -9,6 +9,7 @@
  *             buttons: {
  *                 position : 'top'
  *             }
+ *             }
  *         }
  *     });
  *
